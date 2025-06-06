@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Z\\Desktop\\FUDChromeDriver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5FD058-FD9D-40A4-AE9F-FBD564FFA445}|FUDChromeDriver\\FUDChromeDriver.csproj|c:\\users\\z\\desktop\\fudchromedriver\\fudchromedriver\\undetectedchromedriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5FD058-FD9D-40A4-AE9F-FBD564FFA445}|FUDChromeDriver\\FUDChromeDriver.csproj|solutionrelative:fudchromedriver\\undetectedchromedriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549E696D-932B-42BD-B130-2EFA2E490798}|FUDChromeDriver.Example\\FUDChromeDriver.Example.csproj|c:\\users\\z\\desktop\\fudchromedriver\\fudchromedriver.example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549E696D-932B-42BD-B130-2EFA2E490798}|FUDChromeDriver.Example\\FUDChromeDriver.Example.csproj|solutionrelative:fudchromedriver.example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5FD058-FD9D-40A4-AE9F-FBD564FFA445}|FUDChromeDriver\\FUDChromeDriver.csproj|c:\\users\\z\\desktop\\fudchromedriver\\fudchromedriver\\processextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5FD058-FD9D-40A4-AE9F-FBD564FFA445}|FUDChromeDriver\\FUDChromeDriver.csproj|solutionrelative:fudchromedriver\\processextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5FD058-FD9D-40A4-AE9F-FBD564FFA445}|FUDChromeDriver\\FUDChromeDriver.csproj|c:\\users\\z\\desktop\\fudchromedriver\\fudchromedriver\\patcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5FD058-FD9D-40A4-AE9F-FBD564FFA445}|FUDChromeDriver\\FUDChromeDriver.csproj|solutionrelative:fudchromedriver\\patcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5FD058-FD9D-40A4-AE9F-FBD564FFA445}|FUDChromeDriver\\FUDChromeDriver.csproj|c:\\users\\z\\desktop\\fudchromedriver\\fudchromedriver\\json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5FD058-FD9D-40A4-AE9F-FBD564FFA445}|FUDChromeDriver\\FUDChromeDriver.csproj|solutionrelative:fudchromedriver\\json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5FD058-FD9D-40A4-AE9F-FBD564FFA445}|FUDChromeDriver\\FUDChromeDriver.csproj|c:\\users\\z\\desktop\\fudchromedriver\\fudchromedriver\\http.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5FD058-FD9D-40A4-AE9F-FBD564FFA445}|FUDChromeDriver\\FUDChromeDriver.csproj|solutionrelative:fudchromedriver\\http.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5FD058-FD9D-40A4-AE9F-FBD564FFA445}|FUDChromeDriver\\FUDChromeDriver.csproj|c:\\users\\z\\desktop\\fudchromedriver\\fudchromedriver\\chromeexecutable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5FD058-FD9D-40A4-AE9F-FBD564FFA445}|FUDChromeDriver\\FUDChromeDriver.csproj|solutionrelative:fudchromedriver\\chromeexecutable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5FD058-FD9D-40A4-AE9F-FBD564FFA445}|FUDChromeDriver\\FUDChromeDriver.csproj|c:\\users\\z\\desktop\\fudchromedriver\\fudchromedriver\\chromedriverinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5FD058-FD9D-40A4-AE9F-FBD564FFA445}|FUDChromeDriver\\FUDChromeDriver.csproj|solutionrelative:fudchromedriver\\chromedriverinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProcessExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Z\\Desktop\\FUDChromeDriver\\FUDChromeDriver\\ProcessExtension.cs",
+              "RelativeDocumentMoniker": "FUDChromeDriver\\ProcessExtension.cs",
+              "ToolTip": "C:\\Users\\Z\\Desktop\\FUDChromeDriver\\FUDChromeDriver\\ProcessExtension.cs",
+              "RelativeToolTip": "FUDChromeDriver\\ProcessExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T12:18:58.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patcher.cs",
+              "DocumentMoniker": "C:\\Users\\Z\\Desktop\\FUDChromeDriver\\FUDChromeDriver\\Patcher.cs",
+              "RelativeDocumentMoniker": "FUDChromeDriver\\Patcher.cs",
+              "ToolTip": "C:\\Users\\Z\\Desktop\\FUDChromeDriver\\FUDChromeDriver\\Patcher.cs",
+              "RelativeToolTip": "FUDChromeDriver\\Patcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T12:18:56.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Json.cs",
+              "DocumentMoniker": "C:\\Users\\Z\\Desktop\\FUDChromeDriver\\FUDChromeDriver\\Json.cs",
+              "RelativeDocumentMoniker": "FUDChromeDriver\\Json.cs",
+              "ToolTip": "C:\\Users\\Z\\Desktop\\FUDChromeDriver\\FUDChromeDriver\\Json.cs",
+              "RelativeToolTip": "FUDChromeDriver\\Json.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T12:18:54.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Http.cs",
+              "DocumentMoniker": "C:\\Users\\Z\\Desktop\\FUDChromeDriver\\FUDChromeDriver\\Http.cs",
+              "RelativeDocumentMoniker": "FUDChromeDriver\\Http.cs",
+              "ToolTip": "C:\\Users\\Z\\Desktop\\FUDChromeDriver\\FUDChromeDriver\\Http.cs",
+              "RelativeToolTip": "FUDChromeDriver\\Http.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T12:18:52.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChromeExecutable.cs",
+              "DocumentMoniker": "C:\\Users\\Z\\Desktop\\FUDChromeDriver\\FUDChromeDriver\\ChromeExecutable.cs",
+              "RelativeDocumentMoniker": "FUDChromeDriver\\ChromeExecutable.cs",
+              "ToolTip": "C:\\Users\\Z\\Desktop\\FUDChromeDriver\\FUDChromeDriver\\ChromeExecutable.cs",
+              "RelativeToolTip": "FUDChromeDriver\\ChromeExecutable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T12:18:48.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChromeDriverInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\Z\\Desktop\\FUDChromeDriver\\FUDChromeDriver\\ChromeDriverInstaller.cs",
+              "RelativeDocumentMoniker": "FUDChromeDriver\\ChromeDriverInstaller.cs",
+              "ToolTip": "C:\\Users\\Z\\Desktop\\FUDChromeDriver\\FUDChromeDriver\\ChromeDriverInstaller.cs",
+              "RelativeToolTip": "FUDChromeDriver\\ChromeDriverInstaller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T12:18:49.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Z\\Desktop\\FUDChromeDriver\\FUDChromeDriver.Example\\Program.cs",
+              "RelativeDocumentMoniker": "FUDChromeDriver.Example\\Program.cs",
+              "ToolTip": "C:\\Users\\Z\\Desktop\\FUDChromeDriver\\FUDChromeDriver.Example\\Program.cs",
+              "RelativeToolTip": "FUDChromeDriver.Example\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:51:39.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UndetectedChromeDriver.cs",
+              "DocumentMoniker": "C:\\Users\\Z\\Desktop\\FUDChromeDriver\\FUDChromeDriver\\UndetectedChromeDriver.cs",
+              "RelativeDocumentMoniker": "FUDChromeDriver\\UndetectedChromeDriver.cs",
+              "ToolTip": "C:\\Users\\Z\\Desktop\\FUDChromeDriver\\FUDChromeDriver\\UndetectedChromeDriver.cs",
+              "RelativeToolTip": "FUDChromeDriver\\UndetectedChromeDriver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:27:51.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
